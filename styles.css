@@ -188,6 +188,9 @@ a.social:hover {
     padding: 0 30px;
   }
 
+  .img-container {
+    text-align: center;
+  }
 
   main {
     padding-top: 20px;
